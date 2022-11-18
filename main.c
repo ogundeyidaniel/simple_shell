@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 272d81f7ece0d72854eac4ad45689b544d967fb8
 #include "shell.h"
 
 /**
